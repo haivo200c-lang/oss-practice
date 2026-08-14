@@ -1,9 +1,11 @@
-# OSS Practice
+# OSS Practice 2
 
-Repository thực hành phát triển phần mềm mã nguồn mở.
+Bài tập thực hành Git và GitHub.
 
 ## Mục tiêu
 
-- Làm quen với Git và GitHub.
-- Thực hành quản lý mã nguồn bằng Git.
-- Thực hành các thao tác clone, commit, push và pull.
+- Thực hành clone repository.
+- Thực hành commit.
+- Thực hành push và pull.
+- Làm quen với quy trình quản lý mã nguồn.
+
